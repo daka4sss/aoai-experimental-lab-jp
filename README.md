@@ -1,5 +1,6 @@
 # Installation
 
-- Create a virtual environment from the requirements.txt
-- Rename .env_sample to .env | Add API Keys for the o1 and GPT-4o model.
-- Run the application from ./aoai-experimental-lab/ with "streamlit run comparison_generator_streamlit.py"
+- `requirements.txt` から仮想環境を作成します。
+- `.env_sample` を `.env` にリネームし、O1およびGPT-4oモデルのAPIキーを追加します。
+- `./aoai-experimental-lab/` ディレクトリ内で、以下のコマンドを実行してアプリケーションを起動します。
+- そして、コマンドを実行します。`streamlit run comparison_generator_streamlit_jp.py`
